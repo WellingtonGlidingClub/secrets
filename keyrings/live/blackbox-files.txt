@@ -1,1 +1,2 @@
 emails/WCGMembers.all.txt
+glidingops/credentials.txt
