@@ -1,2 +1,3 @@
 emails/WCGMembers.all.txt
 glidingops/credentials.txt
+soar.co.nz/credentials.txt
